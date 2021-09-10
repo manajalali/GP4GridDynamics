@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Jalali
+    given-names: Mana
+    orcid: https://orcid.org/0000-0003-4925-7248
+title: "Inferring System Dynamics using Gaussian Processes"
+date-released: 2021-10-09
